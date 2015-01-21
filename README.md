@@ -1,4 +1,4 @@
-# eventstore-js
+# eventstore-node
 
 A simple event store in Node.js.
 
