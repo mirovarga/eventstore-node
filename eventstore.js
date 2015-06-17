@@ -8,7 +8,7 @@ exports.add = function (stream, event, payload) {
     timestamp: Date.now()
   };
 
-  storeEvent(stream, event);
+  storeEvent(stream, e);
   handleEvent(e);
 };
 
